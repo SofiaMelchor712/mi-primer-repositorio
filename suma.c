@@ -6,6 +6,6 @@ int main(){
 	int y=7;
 	int res;
 	res=x + y ;
-	printf("Ellresultado de %d + %d= %d\n", x, y,res);
+	printf("El resultado de %d + %d= %d\n", x, y,res);
 	return 0;
 }
